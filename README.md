@@ -48,14 +48,14 @@ There are Four Universities in Helsinki.
 
 * University of the Arts Helsinki
 
-## 2. Turku
+## 2.Turku
 ![Turku](https://upload.wikimedia.org/wikipedia/commons/2/2a/View_from_Turku_Cathedral_tower.jpg)
 ### Population
 According to [Turku's Offical Website](https://www.turku.fi/en/statistical-data-about-turku-2022#Population%20and%20families%202020), they have a population of 195,137. The total proportion of people order than 65 is 21.1%.
 ### Universities
 * Åbo Akademi University
 * University of Turku
-## 3. Tampere
+## 3.Tampere
 ![Tampere](https://upload.wikimedia.org/wikipedia/commons/6/6e/Tammerkoski_from_air.jpg)
 ### Population
 According to [Tampere's offcial website](https://www.tampere.fi/en/information-on-tampere), their total amount of population is 250,353. Population density is 474,4 persons/km2 (at the end of 2022).
@@ -63,7 +63,7 @@ Tampere is particularly attractive to students, with the largest age group in Ta
 The residents of Tampere are well-educated people: Of all the residents over the age of 15, more than three out of four (80 per cent) have completed degrees beyond basic education (2020). 
 ### University
 * Tampere University
-## 4. Oulu
+## 4.Oulu
 
 ![Oulu](https://upload.wikimedia.org/wikipedia/commons/1/1b/Kirkkokatu_Oulu_20121206_01.JPG)
 
@@ -75,13 +75,13 @@ According to [ouka.fi](https://www.ouka.fi/oulu/english/information-about-oulu),
 
 * University of Oulu
 
-## 5. Rovaniemi
+## 5.Rovaniemi
 
 ![Rovaniemi](https://upload.wikimedia.org/wikipedia/commons/1/10/Santa_Claus_Village.jpg)
 
 ### Population
 
-According to [Rovaniemi's Offical Website(Finnish Version)](https://www.rovaniemi.fi/Kaupunki-ja-paatoksenteko/Tietoa-Rovaniemesta), there are 63,528 people in this city. Only 3.8% of population are foreigners and 5320 students are studing in this city in 2020. The unemployment rate here is about 10.3%.
+According to [Rovaniemi's Offical Website(Finnish Version)](https://www.rovaniemi.fi/Kaupunki-ja-paatoksenteko/Tietoa-Rovaniemesta), there are 63,528 people living in this city. Only 3.8% of population are foreigners and 5320 students are studing in this city in 2020. The unemployment rate here is about 10.3%.
 
 ### University
 
